@@ -57,7 +57,7 @@ Passionaut is a visually overwhelming, highly complex interactive 3D knowledge g
 This project was built for the **DEV.to Weekend Challenge: Passion Edition (July 2026)**. It utilizes the Google AI prize category by deeply integrating the Gemini API to structure complex data dynamically.
 
 ### Why Passionaut?
-Instead of a personal "what are my hobbies" app, Passionaut answers: *"How deep does my passion go?"* It visualizes the sheer complexity and interconnectivity of any subject, transforming abstract passion into a concrete, explorable atlas.
+Passionaut answers: *"How deep does my passion go?"* It visualizes the sheer complexity and interconnectivity of any subject, transforming abstract passion into a concrete, explorable atlas.
 
 ## 📄 License
 
