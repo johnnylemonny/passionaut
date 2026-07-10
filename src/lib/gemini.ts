@@ -72,8 +72,47 @@ export async function generateGraph(domain: string, apiKey: string): Promise<Gra
     });
 
     const text = response.text || "{}";
-    const data = JSON.parse(text) as GraphData;
-    return data;
+    const rawData = JSON.parse(text) as GraphData;
+    
+    // Clean and validate graph data to prevent force-graph runtime crashes
+    const nodes = Array.isArray(rawData.nodes) ? rawData.nodes : [];
+    const rawLinks = Array.isArray(rawData.links) ? rawData.links : [];
+    
+    // Filter duplicates and invalid nodes, keeping unique IDs
+    const seenNodeIds = new Set<string>();
+    const sanitizedNodes = nodes.filter(node => {
+      if (!node.id) return false;
+      const normalizedId = String(node.id).trim();
+      if (seenNodeIds.has(normalizedId)) {
+        return false;
+      }
+      seenNodeIds.add(normalizedId);
+      node.id = normalizedId;
+      return true;
+    });
+
+    // Keep only links where both source and target correspond to active nodes
+    const sanitizedLinks = rawLinks.filter(link => {
+      const sourceId = String(link.source || '').trim();
+      const targetId = String(link.target || '').trim();
+      
+      const sourceExists = seenNodeIds.has(sourceId);
+      const targetExists = seenNodeIds.has(targetId);
+      
+      if (sourceExists && targetExists) {
+        link.source = sourceId;
+        link.target = targetId;
+        return true;
+      } else {
+        console.warn(`[Sanitizer] Removed link pointing to non-existent node: "${sourceId}" -> "${targetId}"`);
+        return false;
+      }
+    });
+
+    return {
+      nodes: sanitizedNodes,
+      links: sanitizedLinks
+    };
   } catch (error) {
     console.error("Gemini API Error:", error);
     throw error;
