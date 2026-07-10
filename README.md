@@ -1,8 +1,28 @@
+<p align="center">
+  <img src="public/logo.jpg" alt="Passionaut Logo" width="180" height="180" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0, 243, 255, 0.2);" />
+</p>
+
 # Passionaut 🌌 — Deep-Dive Passion Atlas
 
 **Explore the universe of your passions with AI-generated interactive knowledge graphs.**
 
 Passionaut is a visually overwhelming, highly complex interactive 3D knowledge graph built for the DEV.to Weekend Challenge (Passion Edition). It maps out any passion or domain (e.g., "Astrophysics", "Mechanical Keyboards", "Procedural Generation") into a concrete web of sub-disciplines, key projects, and techniques using Google's Gemini AI.
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="public/screenshots/landing.png" alt="Passionaut Dashboard" width="100%" />
+</p>
+<p align="center">
+  <em>The immersive dark-space HUD and search interface with suggestion chips.</em>
+</p>
+
+<p align="center">
+  <img src="public/screenshots/graph.png" alt="Interactive 3D Constellation" width="100%" />
+</p>
+<p align="center">
+  <em>An explorable 3D constellation of concepts with dynamically scaled 3D labels.</em>
+</p>
 
 ## 🚀 Features
 
