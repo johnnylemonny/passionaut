@@ -9,8 +9,8 @@
   --color-neon-magenta: #ff00ff;
   --color-neon-amber: #ffb703;
   
-  --font-sans: 'Inter', var(--default-font-family);
-  --font-heading: 'Space Grotesk', var(--default-font-family);
+  --font-sans: var(--font-inter), var(--default-font-family);
+  --font-heading: var(--font-space-grotesk), var(--default-font-family);
 }
 
 @custom-variant dark (&:is(.dark *));
