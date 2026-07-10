@@ -1,0 +1,90 @@
+{
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\eslint.config.mjs": {
+    "mtime": 1781408172.1427827,
+    "hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\next-env.d.ts": {
+    "mtime": 1781408172.1870587,
+    "hash": "2a74d3909800ca5467fa83b0ab4a4890"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\next.config.ts": {
+    "mtime": 1783705474.9168296,
+    "hash": "d2e8cb2378dd8f1f25150e4609f18db6"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\postcss.config.mjs": {
+    "mtime": 1781408172.1542416,
+    "hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\app\\layout.tsx": {
+    "mtime": 1783705323.8103027,
+    "hash": "b529ad250e5cdee2e9154e166345a17c"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\app\\page.tsx": {
+    "mtime": 1783708888.0564291,
+    "hash": "39896ccd29029b2f9c4e731ff37cd5ac"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\components\\APIKeyTerminal.tsx": {
+    "mtime": 1783705384.8555336,
+    "hash": "022ce4d2edc3e368c64c6aadbd99a3fb"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\components\\AtlasGraph.tsx": {
+    "mtime": 1783709460.1932702,
+    "hash": "28a386d7178d78c8bc97b60b450f84c9"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\components\\SearchBar.tsx": {
+    "mtime": 1783708862.8191442,
+    "hash": "dbbd55bf6b2bb48edceda1cec300d603"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\components\\Sidebar.tsx": {
+    "mtime": 1783708384.4261353,
+    "hash": "3f15590e6bc65ef3eb5ef0f822fe0858"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\lib\\audio.ts": {
+    "mtime": 1783708847.3837993,
+    "hash": "ab11e8928b8abc250bbeab101bd6d28e"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\lib\\gemini.ts": {
+    "mtime": 1783705370.9278426,
+    "hash": "fca6d9ef67a97776755d7c063e850a7d"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\src\\store\\useStore.ts": {
+    "mtime": 1783708917.8856196,
+    "hash": "732b444ef81ab14689b2737cf20addb5"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\AGENTS.md": {
+    "mtime": 1783709875.3917954,
+    "hash": "ad6623f638cc590a13b868ab8837999b"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\CLAUDE.md": {
+    "mtime": 1783705217.9016633,
+    "hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\pnpm-workspace.yaml": {
+    "mtime": 1783705217.8986588,
+    "hash": "b6e0a9c1a7b488c11a1c5812b4ed319b"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\README.md": {
+    "mtime": 1783709865.9991238,
+    "hash": "3fe2d2e6cb36aff209c330000c9159e7"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\public\\file.svg": {
+    "mtime": 1781408172.15825,
+    "hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\public\\globe.svg": {
+    "mtime": 1781408172.163263,
+    "hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\public\\next.svg": {
+    "mtime": 1781408172.1672635,
+    "hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\public\\vercel.svg": {
+    "mtime": 1781408172.1709821,
+    "hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "D:\\DEV\\ai\\.gemini\\antigravity\\scratch\\passionaut\\public\\window.svg": {
+    "mtime": 1781408172.175058,
+    "hash": "a2760511c65806022ad20adf74370ff3"
+  }
+}

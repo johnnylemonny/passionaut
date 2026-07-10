@@ -1,0 +1,1207 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "eslint.config.mjs",
+      "file_type": "code",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L1",
+      "id": "eslint_config_mjs",
+      "community": 7,
+      "norm_label": "eslint.config.mjs"
+    },
+    {
+      "label": "eslintConfig",
+      "file_type": "code",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L5",
+      "id": "passionaut_eslint_config_eslintconfig",
+      "community": 7,
+      "norm_label": "eslintconfig"
+    },
+    {
+      "label": "next-env.d.ts",
+      "file_type": "code",
+      "source_file": "next-env.d.ts",
+      "source_location": "L1",
+      "id": "next_env_d_ts",
+      "community": 10,
+      "norm_label": "next-env.d.ts"
+    },
+    {
+      "label": "next.config.ts",
+      "file_type": "code",
+      "source_file": "next.config.ts",
+      "source_location": "L1",
+      "id": "next_config_ts",
+      "community": 8,
+      "norm_label": "next.config.ts"
+    },
+    {
+      "label": "nextConfig",
+      "file_type": "code",
+      "source_file": "next.config.ts",
+      "source_location": "L3",
+      "id": "passionaut_next_config_nextconfig",
+      "community": 8,
+      "norm_label": "nextconfig"
+    },
+    {
+      "label": "postcss.config.mjs",
+      "file_type": "code",
+      "source_file": "postcss.config.mjs",
+      "source_location": "L1",
+      "id": "postcss_config_mjs",
+      "community": 9,
+      "norm_label": "postcss.config.mjs"
+    },
+    {
+      "label": "config",
+      "file_type": "code",
+      "source_file": "postcss.config.mjs",
+      "source_location": "L1",
+      "id": "passionaut_postcss_config_config",
+      "community": 9,
+      "norm_label": "config"
+    },
+    {
+      "label": "layout.tsx",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L1",
+      "id": "src_app_layout_tsx",
+      "community": 5,
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "inter",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L5",
+      "id": "app_layout_inter",
+      "community": 5,
+      "norm_label": "inter"
+    },
+    {
+      "label": "spaceGrotesk",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L10",
+      "id": "app_layout_spacegrotesk",
+      "community": 5,
+      "norm_label": "spacegrotesk"
+    },
+    {
+      "label": "metadata",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L15",
+      "id": "app_layout_metadata",
+      "community": 5,
+      "norm_label": "metadata"
+    },
+    {
+      "label": "RootLayout()",
+      "file_type": "code",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L20",
+      "id": "app_layout_rootlayout",
+      "community": 5,
+      "norm_label": "rootlayout()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L1",
+      "id": "src_app_page_tsx",
+      "community": 0,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "AtlasGraph",
+      "file_type": "code",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L12",
+      "id": "app_page_atlasgraph",
+      "community": 0,
+      "norm_label": "atlasgraph"
+    },
+    {
+      "label": "Home()",
+      "file_type": "code",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L21",
+      "id": "app_page_home",
+      "community": 0,
+      "norm_label": "home()"
+    },
+    {
+      "label": "APIKeyTerminal.tsx",
+      "file_type": "code",
+      "source_file": "src/components/APIKeyTerminal.tsx",
+      "source_location": "L1",
+      "id": "src_components_apikeyterminal_tsx",
+      "community": 0,
+      "norm_label": "apikeyterminal.tsx"
+    },
+    {
+      "label": "APIKeyTerminal()",
+      "file_type": "code",
+      "source_file": "src/components/APIKeyTerminal.tsx",
+      "source_location": "L8",
+      "id": "components_apikeyterminal_apikeyterminal",
+      "community": 0,
+      "norm_label": "apikeyterminal()"
+    },
+    {
+      "label": "AtlasGraph.tsx",
+      "file_type": "code",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L1",
+      "id": "src_components_atlasgraph_tsx",
+      "community": 2,
+      "norm_label": "atlasgraph.tsx"
+    },
+    {
+      "label": "AtlasGraph()",
+      "file_type": "code",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L9",
+      "id": "components_atlasgraph_atlasgraph",
+      "community": 2,
+      "norm_label": "atlasgraph()"
+    },
+    {
+      "label": "SearchBar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L1",
+      "id": "src_components_searchbar_tsx",
+      "community": 1,
+      "norm_label": "searchbar.tsx"
+    },
+    {
+      "label": "SearchBar()",
+      "file_type": "code",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L10",
+      "id": "components_searchbar_searchbar",
+      "community": 1,
+      "norm_label": "searchbar()"
+    },
+    {
+      "label": "Sidebar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Sidebar.tsx",
+      "source_location": "L1",
+      "id": "src_components_sidebar_tsx",
+      "community": 0,
+      "norm_label": "sidebar.tsx"
+    },
+    {
+      "label": "Sidebar()",
+      "file_type": "code",
+      "source_file": "src/components/Sidebar.tsx",
+      "source_location": "L7",
+      "id": "components_sidebar_sidebar",
+      "community": 0,
+      "norm_label": "sidebar()"
+    },
+    {
+      "label": "audio.ts",
+      "file_type": "code",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L1",
+      "id": "src_lib_audio_ts",
+      "community": 2,
+      "norm_label": "audio.ts"
+    },
+    {
+      "label": "getAudioContext()",
+      "file_type": "code",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L3",
+      "id": "lib_audio_getaudiocontext",
+      "community": 2,
+      "norm_label": "getaudiocontext()"
+    },
+    {
+      "label": "playBeep()",
+      "file_type": "code",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L11",
+      "id": "lib_audio_playbeep",
+      "community": 2,
+      "norm_label": "playbeep()"
+    },
+    {
+      "label": "playSuccessSweep()",
+      "file_type": "code",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L38",
+      "id": "lib_audio_playsuccesssweep",
+      "community": 2,
+      "norm_label": "playsuccesssweep()"
+    },
+    {
+      "label": "gemini.ts",
+      "file_type": "code",
+      "source_file": "src/lib/gemini.ts",
+      "source_location": "L1",
+      "id": "src_lib_gemini_ts",
+      "community": 1,
+      "norm_label": "gemini.ts"
+    },
+    {
+      "label": "generateGraph()",
+      "file_type": "code",
+      "source_file": "src/lib/gemini.ts",
+      "source_location": "L4",
+      "id": "lib_gemini_generategraph",
+      "community": 1,
+      "norm_label": "generategraph()"
+    },
+    {
+      "label": "useStore.ts",
+      "file_type": "code",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L1",
+      "id": "src_store_usestore_ts",
+      "community": 1,
+      "norm_label": "usestore.ts"
+    },
+    {
+      "label": "PassionNode",
+      "file_type": "code",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L4",
+      "id": "store_usestore_passionnode",
+      "community": 2,
+      "norm_label": "passionnode"
+    },
+    {
+      "label": "PassionLink",
+      "file_type": "code",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L12",
+      "id": "store_usestore_passionlink",
+      "community": 1,
+      "norm_label": "passionlink"
+    },
+    {
+      "label": "GraphData",
+      "file_type": "code",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L18",
+      "id": "store_usestore_graphdata",
+      "community": 1,
+      "norm_label": "graphdata"
+    },
+    {
+      "label": "AppState",
+      "file_type": "code",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L23",
+      "id": "store_usestore_appstate",
+      "community": 1,
+      "norm_label": "appstate"
+    },
+    {
+      "label": "useStore",
+      "file_type": "code",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L45",
+      "id": "store_usestore_usestore",
+      "community": 0,
+      "norm_label": "usestore"
+    },
+    {
+      "label": "AGENTS.md",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "id": "agents_md",
+      "community": 6,
+      "norm_label": "agents.md"
+    },
+    {
+      "label": "AGENTS.md",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "id": "passionaut_agents_agents_md",
+      "community": 6,
+      "norm_label": "agents.md"
+    },
+    {
+      "label": "Project Context",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L3",
+      "id": "passionaut_agents_project_context",
+      "community": 6,
+      "norm_label": "project context"
+    },
+    {
+      "label": "Architecture & Constraints",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L6",
+      "id": "passionaut_agents_architecture_constraints",
+      "community": 6,
+      "norm_label": "architecture & constraints"
+    },
+    {
+      "label": "Maintenance Notes",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L16",
+      "id": "passionaut_agents_maintenance_notes",
+      "community": 6,
+      "norm_label": "maintenance notes"
+    },
+    {
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "id": "claude_md",
+      "community": 11,
+      "norm_label": "claude.md"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 3,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Passionaut \ud83c\udf0c \u2014 Deep-Dive Passion Atlas",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "passionaut_readme_passionaut_deep_dive_passion_atlas",
+      "community": 3,
+      "norm_label": "passionaut \ud83c\udf0c \u2014 deep-dive passion atlas"
+    },
+    {
+      "label": "\ud83d\ude80 Features",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "id": "passionaut_readme_features",
+      "community": 3,
+      "norm_label": "\ud83d\ude80 features"
+    },
+    {
+      "label": "\ud83d\udee0\ufe0f Tech Stack",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L18",
+      "id": "passionaut_readme_tech_stack",
+      "community": 3,
+      "norm_label": "\ud83d\udee0\ufe0f tech stack"
+    },
+    {
+      "label": "\ud83d\udce6 Getting Started",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "id": "passionaut_readme_getting_started",
+      "community": 4,
+      "norm_label": "\ud83d\udce6 getting started"
+    },
+    {
+      "label": "Prerequisites",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L30",
+      "id": "passionaut_readme_prerequisites",
+      "community": 4,
+      "norm_label": "prerequisites"
+    },
+    {
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "id": "passionaut_readme_installation",
+      "community": 4,
+      "norm_label": "installation"
+    },
+    {
+      "label": "code:bash (git clone https://github.com/johnnylemonny/passionaut.git)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "id": "passionaut_readme_codeblock_1",
+      "community": 4,
+      "norm_label": "code:bash (git clone https://github.com/johnnylemonny/passionaut.git)"
+    },
+    {
+      "label": "code:bash (pnpm install)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L44",
+      "id": "passionaut_readme_codeblock_2",
+      "community": 4,
+      "norm_label": "code:bash (pnpm install)"
+    },
+    {
+      "label": "code:bash (pnpm dev)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L49",
+      "id": "passionaut_readme_codeblock_3",
+      "community": 4,
+      "norm_label": "code:bash (pnpm dev)"
+    },
+    {
+      "label": "\ud83c\udfc6 DEV.to Weekend Challenge",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L55",
+      "id": "passionaut_readme_dev_to_weekend_challenge",
+      "community": 3,
+      "norm_label": "\ud83c\udfc6 dev.to weekend challenge"
+    },
+    {
+      "label": "Why Passionaut?",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L59",
+      "id": "passionaut_readme_why_passionaut",
+      "community": 3,
+      "norm_label": "why passionaut?"
+    },
+    {
+      "label": "\ud83d\udcc4 License",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L62",
+      "id": "passionaut_readme_license",
+      "community": 3,
+      "norm_label": "\ud83d\udcc4 license"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "eslint_config_mjs",
+      "target": "passionaut_eslint_config_eslintconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "next.config.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "next_config_ts",
+      "target": "passionaut_next_config_nextconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "postcss.config.mjs",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "postcss_config_mjs",
+      "target": "passionaut_postcss_config_config",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_layout_tsx",
+      "target": "app_layout_inter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_app_layout_tsx",
+      "target": "app_layout_spacegrotesk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "src_app_layout_tsx",
+      "target": "app_layout_metadata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/layout.tsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "src_app_layout_tsx",
+      "target": "app_layout_rootlayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_page_tsx",
+      "target": "src_store_usestore_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_app_page_tsx",
+      "target": "store_usestore_usestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_app_page_tsx",
+      "target": "src_components_apikeyterminal_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_page_tsx",
+      "target": "src_components_searchbar_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "src_app_page_tsx",
+      "target": "src_components_sidebar_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "src_app_page_tsx",
+      "target": "app_page_atlasgraph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/app/page.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "src_app_page_tsx",
+      "target": "app_page_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/app/page.tsx",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "app_page_home",
+      "target": "store_usestore_usestore"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/APIKeyTerminal.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_components_apikeyterminal_tsx",
+      "target": "src_store_usestore_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/APIKeyTerminal.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_components_apikeyterminal_tsx",
+      "target": "store_usestore_usestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/APIKeyTerminal.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "src_components_apikeyterminal_tsx",
+      "target": "components_apikeyterminal_apikeyterminal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/components/APIKeyTerminal.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "components_apikeyterminal_apikeyterminal",
+      "target": "store_usestore_usestore"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_components_atlasgraph_tsx",
+      "target": "src_store_usestore_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_components_atlasgraph_tsx",
+      "target": "store_usestore_usestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_components_atlasgraph_tsx",
+      "target": "store_usestore_passionnode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_components_atlasgraph_tsx",
+      "target": "src_lib_audio_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_components_atlasgraph_tsx",
+      "target": "lib_audio_playbeep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_components_atlasgraph_tsx",
+      "target": "components_atlasgraph_atlasgraph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/components/AtlasGraph.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "components_atlasgraph_atlasgraph",
+      "target": "store_usestore_usestore"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "src_store_usestore_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "store_usestore_usestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "src_lib_gemini_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "lib_gemini_generategraph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "src_lib_audio_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "lib_audio_playsuccesssweep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "lib_audio_playbeep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_components_searchbar_tsx",
+      "target": "components_searchbar_searchbar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/components/SearchBar.tsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "components_searchbar_searchbar",
+      "target": "store_usestore_usestore"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Sidebar.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_components_sidebar_tsx",
+      "target": "src_store_usestore_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Sidebar.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_components_sidebar_tsx",
+      "target": "store_usestore_usestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Sidebar.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_components_sidebar_tsx",
+      "target": "components_sidebar_sidebar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "src/components/Sidebar.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "components_sidebar_sidebar",
+      "target": "store_usestore_usestore"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_lib_audio_ts",
+      "target": "lib_audio_getaudiocontext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_lib_audio_ts",
+      "target": "lib_audio_playbeep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "src_lib_audio_ts",
+      "target": "lib_audio_playsuccesssweep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lib_audio_playbeep",
+      "target": "lib_audio_getaudiocontext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/audio.ts",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "lib_audio_playsuccesssweep",
+      "target": "lib_audio_getaudiocontext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/gemini.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_lib_gemini_ts",
+      "target": "src_store_usestore_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/gemini.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_lib_gemini_ts",
+      "target": "store_usestore_graphdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/gemini.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_lib_gemini_ts",
+      "target": "lib_gemini_generategraph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_store_usestore_ts",
+      "target": "store_usestore_passionnode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "src_store_usestore_ts",
+      "target": "store_usestore_passionlink",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "src_store_usestore_ts",
+      "target": "store_usestore_graphdata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "src_store_usestore_ts",
+      "target": "store_usestore_appstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/store/useStore.ts",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "src_store_usestore_ts",
+      "target": "store_usestore_usestore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_md",
+      "target": "passionaut_agents_agents_md",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "passionaut_agents_agents_md",
+      "target": "passionaut_agents_project_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "passionaut_agents_agents_md",
+      "target": "passionaut_agents_architecture_constraints",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "passionaut_agents_agents_md",
+      "target": "passionaut_agents_maintenance_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "passionaut_readme_passionaut_deep_dive_passion_atlas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "passionaut_readme_passionaut_deep_dive_passion_atlas",
+      "target": "passionaut_readme_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "passionaut_readme_passionaut_deep_dive_passion_atlas",
+      "target": "passionaut_readme_tech_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "passionaut_readme_passionaut_deep_dive_passion_atlas",
+      "target": "passionaut_readme_getting_started",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "passionaut_readme_passionaut_deep_dive_passion_atlas",
+      "target": "passionaut_readme_dev_to_weekend_challenge",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "passionaut_readme_passionaut_deep_dive_passion_atlas",
+      "target": "passionaut_readme_license",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "passionaut_readme_getting_started",
+      "target": "passionaut_readme_prerequisites",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "passionaut_readme_getting_started",
+      "target": "passionaut_readme_installation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "passionaut_readme_installation",
+      "target": "passionaut_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "passionaut_readme_installation",
+      "target": "passionaut_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "passionaut_readme_installation",
+      "target": "passionaut_readme_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "passionaut_readme_dev_to_weekend_challenge",
+      "target": "passionaut_readme_why_passionaut",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "b4dd3e4abf4d57f8f720f9db9e0115076e6cabb6"
+}
