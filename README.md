@@ -14,14 +14,21 @@ Passionaut is a visually overwhelming, highly complex interactive 3D knowledge g
   <img src="public/screenshots/landing.png" alt="Passionaut Dashboard" width="100%" />
 </p>
 <p align="center">
-  <em>The immersive dark-space HUD and search interface with suggestion chips.</em>
+  <em>The immersive dark-space HUD and search interface with suggestion chips and recent searches.</em>
 </p>
 
 <p align="center">
   <img src="public/screenshots/graph.png" alt="Interactive 3D Constellation" width="100%" />
 </p>
 <p align="center">
-  <em>An explorable 3D constellation of concepts with dynamically scaled 3D labels.</em>
+  <em>An explorable, fully connected 3D constellation of astrophysics with dynamically scaled 3D labels.</em>
+</p>
+
+<p align="center">
+  <img src="public/screenshots/detail.png" alt="Selected Node Detail Panel" width="100%" />
+</p>
+<p align="center">
+  <em>Deep-dive detail analysis panel displaying concept description and importance score.</em>
 </p>
 
 ## 🚀 Features
