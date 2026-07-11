@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="public/logo.jpg" alt="Passionaut Logo" width="120" height="120" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0, 243, 255, 0.15);" />
+  <img src="public/logo.jpg" alt="Passionaut Logo" width="220" height="220" style="border-radius: 32px; box-shadow: 0 12px 40px rgba(0, 243, 255, 0.25);" />
 </p>
 
 # Passionaut 🌌 — Deep-Dive Passion Atlas
