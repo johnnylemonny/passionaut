@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="public/logo.jpg" alt="Passionaut Logo" width="180" height="180" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0, 243, 255, 0.2);" />
+  <img src="public/banner.webp" alt="Passionaut Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="public/logo.jpg" alt="Passionaut Logo" width="120" height="120" style="border-radius: 20px; box-shadow: 0 8px 24px rgba(0, 243, 255, 0.15);" />
 </p>
 
 # Passionaut 🌌 — Deep-Dive Passion Atlas
